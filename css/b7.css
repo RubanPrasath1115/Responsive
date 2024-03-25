@@ -1,0 +1,204 @@
+.b7
+{
+	width: 100%;
+	height: 400px;
+	background-color: #221831;
+}
+.container5
+{
+	width: 60%;
+	height: 350px;
+	background-color: transparent;
+	margin: 0 auto;
+}
+.gr1
+{
+	width: 33.3%;
+	height: 350px;
+	float: left;
+
+}
+.conf2
+{
+	width: 100%;
+	height: 100px;
+	margin-top: 40px;
+}
+.texts
+{
+	color: grey;
+	font-size: 13px;
+	line-height: 2;
+    margin-bottom: 60px;
+}
+.icons
+{
+	width: 100%;
+	height: 100px;
+}
+.icons a
+{
+	text-decoration: none;
+	color: white;
+	display: inline;
+	letter-spacing: 20px;
+
+}
+.icons a:hover
+{
+	color: #7F66FF;
+	
+}
+.gr2
+{
+	width: 33.3%;
+	height: 350px;
+	float: left;
+}
+.newsletter
+{
+	color: white;
+	font-size: 18px;
+	margin-top: 40px;
+	margin-bottom: 72px;
+	font-weight: bold;
+
+}
+.email
+{
+    width: 95%;
+}  
+input[type=text]
+{
+	margin-top: 15px;
+    width: 100%;
+    height: 50px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid transparent;
+    background-color:#463a58;
+    resize: none;
+    color: white;
+}
+input[type=text]:focus
+{
+	outline: none;
+}
+.button2
+{
+	width: 78%;
+	margin-top: 10px;
+  background-color: #7F66FF; 
+  border-bottom: 3px solid white;
+  color: white;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+}
+.button2 a
+{
+	text-decoration: none;
+	color: white;
+	letter-spacing: 2px;
+	font-weight: bold;
+}
+.button2 i
+{
+	margin-left: 05px;
+	font-size: 14px;
+}
+.gr3
+{
+	width: 33.4%;
+	height: 350px;
+	float: right;
+}
+.ig
+{
+	color: white;
+	font-size: 18px;
+	margin-top: 40px;
+	margin-bottom: 72px;
+	font-weight: bold;
+	margin-bottom:50px;
+}
+.imgcont
+{
+	width: 100%;
+	height: 220px;
+}
+.im1
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+	background-color: red;
+	margin-right: 6px;
+}
+.im2
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+	margin-right: 6px;
+}
+.im3
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+	margin-right: 6px;
+}
+.im4
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+}
+.im5
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+	margin-right: 6px;
+	margin-top: 7px;
+}
+.im6
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+	margin-right: 6px;
+	margin-top: 7px;
+}
+.im7
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+	margin-right: 6px;
+	margin-top: 7px;
+
+}
+.im8
+{
+	width: 23.5%;
+	height: 100px;
+	float: left;
+	margin-top: 7px;
+}
+.last
+{
+	width: 100%;
+	height: 50px;
+	background-color:#190e2b;
+	float: left;
+}
+.last span
+{
+   color: grey;
+   position: relative;
+   top: 20px;
+   left: 380px;
+ }

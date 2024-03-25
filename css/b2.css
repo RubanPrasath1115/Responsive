@@ -1,0 +1,39 @@
+.b2
+{
+	width: 100%;
+	height: 400px;
+	background-color: #F5F8FB;
+	text-align: center;
+	display: grid;
+	place-items: center;
+
+}
+.head
+{
+	font-size: 4rem;
+	color: #0B2743;
+}
+.cont
+{
+	font-size: 1rem;
+	color:slateblue;
+	line-height: 2;
+}
+.ticket3
+{
+	width: 120px;
+	background-color: #7F66FF;
+	padding: 30px 30px 31px 30px;
+	display: grid;
+	place-items: center;
+}
+.ticket3 a
+{
+	text-decoration: none;
+	color: white;
+}
+.ticket3 a i
+{
+	font-size: 12px;
+
+}
